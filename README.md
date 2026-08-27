@@ -43,15 +43,12 @@ Os dados de comércio exterior foram organizados a partir de fontes secundárias
 - ApexBrasil — Agência Brasileira de Promoção de Exportações e Investimentos (2023)
 - The Atlas of Economic Complexity — Growth Lab, Harvard Kennedy School (2023)
 - Japan Ministry of Foreign Affairs — *Japan-Brazil Relations* (set. 2023)
-- Ricardo, D. — *On the Principles of Political Economy and Taxation* (1817)
-- Porter, M. E. — *Competitive Advantage* (1985)
 - Krugman, Obstfeld & Melitz — *International Economics: Theory and Policy* (10. ed., 2015)
 
-A lista completa, com citações formatadas, está no artigo final.
 
 ## 👤 Autor(a)
 
-**[Seu Nome]** — [seu e-mail / LinkedIn, se desejar incluir]
+**Fernando Yukio Chikuji** 
 
 ---
 

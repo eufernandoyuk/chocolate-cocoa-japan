@@ -43,15 +43,12 @@ Foreign-trade data were organized from secondary sources — ApexBrasil and The 
 - ApexBrasil — Brazilian Trade and Investment Promotion Agency (2023)
 - The Atlas of Economic Complexity — Growth Lab, Harvard Kennedy School (2023)
 - Japan Ministry of Foreign Affairs — *Japan-Brazil Relations* (Sept. 2023)
-- Ricardo, D. — *On the Principles of Political Economy and Taxation* (1817)
-- Porter, M. E. — *Competitive Advantage* (1985)
 - Krugman, Obstfeld & Melitz — *International Economics: Theory and Policy* (10th ed., 2015)
 
-The full list, with formatted citations, is included in the final paper.
 
 ## 👤 Author
 
-**[Your Name]** — [your email / LinkedIn, if you'd like to include it]
+**Fernando Yukio Chikuji**
 
 ---
 
