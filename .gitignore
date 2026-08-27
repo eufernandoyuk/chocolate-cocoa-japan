@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+*.swp
+
+# Temporary / lock files from Word, PowerPoint, Excel
+~$*
+*.tmp
+
+# Node (caso adicione scripts de geração no futuro)
+node_modules/
+npm-debug.log*
